@@ -32,5 +32,5 @@ export class AppComponent {
 
    name="angular"
 
-   salary=10000
+   salary=1000
 }
